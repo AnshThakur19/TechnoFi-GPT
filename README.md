@@ -1,16 +1,18 @@
-# GPT Chatbot
+# TechnoFI GPT Chatbot
 
 This project is a chatbot built using the GPT API and Python. It is designed to demonstrate how to integrate the GPT model into a chatbot application, allowing for natural language interactions.
 
 ## Description
 
-This Chatbot is an advanced conversational agent developed to showcase the capabilities of OpenAI’s GPT API integrated with Python. This chatbot is designed to engage users in dynamic and meaningful conversations by leveraging the natural language processing power of GPT.
+This Chatbot is an advanced conversational agent developed to showcase the capabilities of OpenAI’s GPT API integrated with Python, also genrates professional and casual resumes. This chatbot is designed to engage users in dynamic and meaningful conversations by leveraging the natural language processing power of GPT.
 
 ### Key Features
 
 * **Python Based Implementation:** Python is renowned for its simplicity and readability, making it an ideal choice for implementing and customizing your chatbot. The codebase is designed to be easy to understand and extend.
 
 * **API-Based Integration:** Seamlessly integrates with OpenAI’s GPT API, allowing you to access state-of-the-art language models and their capabilities.
+
+* **Resume Generator:** Generates a professional resume, which takes your direct input.
 
 * **Interactive Conversations:** The chatbot can carry on conversations on a wide range of topics, providing relevant and contextually appropriate responses.
 
